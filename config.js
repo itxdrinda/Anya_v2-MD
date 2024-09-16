@@ -8,23 +8,23 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
-    footer: process.env.Footer || "© Powered By Queen Anya Bot",
-    prefa: process.env.Prefix || "-",
+    botname: process.env.BotName || "REHMAN Bot",
+    footer: process.env.Footer || "© Powered By REHMAN BOT",
+    prefa: process.env.Prefix || ",",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "REHMAN",
+    ownernumber: process.env.Owner_Number || "923186888385",
+    instagramId: process.env.Insta || "rehman._385",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
-    packname: process.env.PackName || "Queen Anya v2 MD",
+    author: process.env.Author || "@REYMAN",
+    packname: process.env.PackName || "REHMAN v2 MD",
     socialLink: process.env.Web || "https://github.com/PikaBotz",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
